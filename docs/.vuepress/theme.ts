@@ -72,7 +72,7 @@ export default hopeTheme({
     articleInfo: ["Date", "Category", "Tag", "ReadingTime", "PageView"],
     name: "SavageChigga",
     avatar: "/head.jpg",
-    description: "PhD Student@CSU，<br>GIS & Knowledge Graph，blog: https://savagechigga.github.io/blog.html",
+    description: "PhD Student@CSU<br>GIS & Knowledge Graph<br>https://savagechigga.github.io",
     intro: "/intro.html",
     roundAvatar: true,
     medias: {
