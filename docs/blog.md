@@ -3,7 +3,7 @@
 home: true
 layout: Blog
 icon: home
-bgImage: './.vuepress/public/bgpic.png'
+bgImage: './bgpic.png'
 title: BLOG
 #heroImage: /logo.svg
 heroText: 木东
