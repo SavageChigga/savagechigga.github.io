@@ -3,12 +3,12 @@
 home: true
 layout: Blog
 icon: home
-bgImage: http://tc.seoipo.com/home-bg-1.jpg
-title: 互联网小白
+bgImage: './.vuepress/public/bgpic.png'
+title: BLOG
 #heroImage: /logo.svg
-heroText: 互联网小白
+heroText: 木东
 heroFullScreen: false
-tagline: 盛年不重来，一日难再晨
+tagline: 待到雨散看天青，守得云开见月明
 #projects:
 #  - icon: project
 #    name: 项目名称
