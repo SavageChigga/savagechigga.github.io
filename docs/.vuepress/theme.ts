@@ -76,7 +76,7 @@ export default hopeTheme({
     intro: "/intro.html",
     roundAvatar: true,
     medias: {
-      GitHub: "https://github.com/rockbenben",
+      GitHub: "https://github.com/savagechigga",
       Zhihu: "https://www.zhihu.com/people/qingwhat",
       Weibo: "https://weibo.com/u/1992817087",
       Wechat: "http://tc.seoipo.com/wechat.svg",
