@@ -30,7 +30,6 @@ https://www.webfx.com/tools/emoji-cheat-sheet/
 
 ## 引用链接
 [百度][id],[百度][id]
-
 [id]:baidu.com"一个搜索引擎"
 
 ## 链接添加到标题
@@ -125,8 +124,6 @@ print('hello world')
 ## 表情 emoji
 :smile:
 
-
-
 ## 任务待办
 -[] 吃饭
 -[x] 睡觉
@@ -153,5 +150,4 @@ X^2^
 ## 使用html可以实现markdown不支持的内容
 
 ## 视频
-
-<iframe src="//player.bilibili.com/player.html?aid=327623069&bvid=BV1JA411h7Gw&cid=171385214&page=1" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true" height=600 width=800> </iframe>
+<iframe src="//player.bilibili.com/player.html?aid=327623069&bvid=BV1JA411h7Gw&cid=171385214&page=1" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true" height=405 width=720> </iframe>
