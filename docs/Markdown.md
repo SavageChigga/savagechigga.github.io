@@ -26,10 +26,6 @@ https://unicode.org/emoji/charts/full-emoji-list.html#face-smiling
 ##　超链接
 [点击跳转至百度](http://www.baidu.com"一个搜索引擎")
 
-## 引用链接
-[百度][id],[百度][id]
-[id]:baidu.com"一个搜索引擎"
-
 ## 链接添加到标题
 请参考[标题1](#一级标题)
 
@@ -60,10 +56,8 @@ http://www/baidu.com
 如果在单一列表项中包含了多个段落，为了保证渲染正常，*与段落首字母之间必须保留四个空格
 
 *    段落一
-
      小段一
 *    段落二
-
      小段二
 
 如果在列表中加入了区块引用，区域引用标记符也需要缩进4个空格
@@ -147,11 +141,5 @@ X^2^
 ==这里是高亮的内容==
 
 ## 脚注
-知识图谱是一种知识库[^1]
-[^1]：Google，things not strings
-
 ## 使用html可以实现markdown不支持的内容
-
 ## 视频
-
-<iframe src="//player.bilibili.com/player.html?aid=327623069&bvid=BV1JA411h7Gw&cid=171385214&page=1" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true"> </iframe>
