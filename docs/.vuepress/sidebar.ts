@@ -5,6 +5,7 @@ export default sidebar([
   "/DailyRoutine",
   "/Fitness",
   "/Read",
+  "/Test",
   {
     text: "Blog",
     icon: "blog",
