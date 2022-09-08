@@ -6,7 +6,7 @@ icon: home
 bgImage: './bgpic.png'
 title: BLOG
 #heroImage: /logo.svg
-heroText: 木东
+heroText: <font color='#9932CC'>木东</font>
 heroFullScreen: false
 tagline: 待到雨散看天青，守得云开见月明
 #projects:
