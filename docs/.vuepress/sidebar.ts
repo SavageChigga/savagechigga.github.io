@@ -22,7 +22,7 @@ export default sidebar([
     children: "structure",
   },
   {
-    text: "Blog",
+    text: "📙 Blog",
     icon: "blog",
     prefix: "/_posts/",
     link: "/blog",
@@ -62,7 +62,7 @@ export default sidebar([
     children: "structure",
   },
   {
-    text: "idea",
+    text: "💡 idea",
     icon: "check",
     prefix: "/idea/",
     link: "",
@@ -70,7 +70,7 @@ export default sidebar([
     children: "structure",
   },
   {
-    text: "生活",
+    text: "🖼 生活",
     icon: "check",
     prefix: "/life/",
     link: "",
