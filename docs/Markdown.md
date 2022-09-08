@@ -3,6 +3,7 @@ article: false
 title: markdown
 icon: check
 ---
+
 >参考：
 https://www.bilibili.com/video/BV1JA411h7Gw
 https://www.runoob.com/markdown/md-tutorial.html
@@ -25,10 +26,13 @@ https://www.webfx.com/tools/emoji-cheat-sheet/
 > 强调与引用
 
 ##　超链接
+
 [点击跳转至百度](http://www.baidu.com"一个搜索引擎")
 
 ## 引用链接
+
 [百度][id],[百度][id]
+
 [id]:baidu.com"一个搜索引擎"
 
 ## 链接添加到标题
@@ -36,4 +40,90 @@ https://www.webfx.com/tools/emoji-cheat-sheet/
 
 ## 直接使用url
 http://www/baidu.com
+
+### 图片
+![图片](https://upload-images.jianshu.io/upload_images/703764-605e3cc2ecb664f6.jpg?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240 "图片")
+
+## 无序标题
+* 黄瓜
+* 玉米
+* 茄子
+
++ 黄瓜
++ 玉米
++ 茄子
+
+- 黄瓜
+- 玉米
+- 茄子
+
+## 有序标题
+1. 黄瓜
+2. 玉米
+3. 茄子
+
+如果在单一列表项中包含了多个段落，为了保证渲染正常，*与段落首字母之间必须保留四个空格
+
+*    段落一
+
+     小段一
+*    段落二
+
+     小段二
+
+如果在列表中加入了区块引用，区域引用标记符也需要缩进4个空格
+
+* 段落一
+    > 区块标记一
+* 段落二
+    > 区块标记二
+
+## 分割线
+***
+---
+
+## 斜体与加粗
+*这里是斜体*
+_这里是斜体_
+
+**这里是加粗**
+__这里是加粗__
+
+## 下划线
+<u>下划线</u>
+
+## 代码块
+`
+fun (x: Int, y: Int): Int {
+  return x + y
+}`
+``fun (x: Int, y: Int): Int {
+  return x + y
+}``
+```python
+print('hello world')
+```
+
+## 表格
+|表头|条目一|条目二|
+:---:|:---:|:---:
+项目|项目一|项目二
+> 注：三个短斜杠左右的冒号用于控制对齐方式，只放置左边冒号表示文字居左，只放置右边冒号表示文字居右，如果两边都放置冒号表示文字居中。
+
+## 特殊符号
+\\   反斜线
+\`   反引号
+\*   星号
+\_   底线
+\{\}  花括号
+\[\]  方括号
+\(\)  括弧
+\#   井字号
+\+   加号
+\-   减号
+\.   英文句点
+\!   惊叹号
+
+## 表情 emoji
+:smile:
 
