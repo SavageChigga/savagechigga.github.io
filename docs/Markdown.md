@@ -25,12 +25,10 @@ https://www.webfx.com/tools/emoji-cheat-sheet/
 ## 强调与引用
 > 强调与引用
 
-##　超链接
-
+## 超链接
 [点击跳转至百度](http://www.baidu.com"一个搜索引擎")
 
 ## 引用链接
-
 [百度][id],[百度][id]
 
 [id]:baidu.com"一个搜索引擎"
@@ -127,18 +125,23 @@ print('hello world')
 ## 表情 emoji
 :smile:
 
-##如何给文字上色
-使用Markdown的同学最郁闷的地方恐怕就是不能给文字添加颜色了。事实上，Markdown的最初目标就是为纯写作而生的。因此，它并没有考虑文字颜色这一点。所以，单纯使用Markdown设置文字颜色已经做不到了。但你可以这样做：
-先用Markdown编辑完成
-导出为html，在需要上色的部分手动添加标签<font color='#9932CC'>颜色</font>保存即可。
 
-## 任务待办
--[] 吃饭
--[x] 睡觉
 
-## 数学公式（可用latex）
-$$
-y=ax_2+b^2
-\mu=\alpha+\beta
-$$
+## 下标
+H~2~O
 
+## 上标
+X^2^
+
+## 高亮
+==这里是高亮的内容==
+
+## 脚注
+知识图谱是一种知识库[^1]
+[^1]：Google，things not strings
+
+## 使用html可以实现markdown不支持的内容
+
+## 视频
+
+<iframe src="//player.bilibili.com/player.html?aid=327623069&bvid=BV1JA411h7Gw&cid=171385214&page=1" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true"> </iframe>
