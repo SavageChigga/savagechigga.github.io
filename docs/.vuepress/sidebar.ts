@@ -6,7 +6,7 @@ export default sidebar([
   "/Fitness",
   "/Read",
   {
-    text: "博客文章",
+    text: "Blog",
     icon: "blog",
     prefix: "/_posts/",
     link: "/blog",
@@ -14,7 +14,7 @@ export default sidebar([
     children: "structure",
   },
   {
-    text: "🚀 代码",
+    text: "🚀 资料",
     icon: "",
     prefix: "/code/",
     link: "",
@@ -22,7 +22,7 @@ export default sidebar([
     children: "structure",
   },
   {
-    text: "🧰 软件应用",
+    text: "🧰 工具",
     icon: "",
     prefix: "/apps/",
     link: "",
@@ -30,7 +30,7 @@ export default sidebar([
     children: "structure",
   },
   {
-    text: "🌐 页面开发",
+    text: "🌐 资源",
     icon: "",
     prefix: "/web/",
     link: "",
@@ -38,7 +38,7 @@ export default sidebar([
     children: "structure",
   },
   {
-    text: "🏗️ 网站部署",
+    text: "🏗️ 部署",
     icon: "",
     prefix: "/deploy/",
     link: "",
@@ -46,7 +46,7 @@ export default sidebar([
     children: "structure",
   },
   {
-    text: "🐋 Linux 服务",
+    text: "🐋 服务",
     icon: "",
     prefix: "/services/",
     link: "",
@@ -54,16 +54,16 @@ export default sidebar([
     children: "structure",
   },
   {
-    text: "🪟 系统问题",
-    icon: "",
+    text: "导航",
+    icon: "check",
     prefix: "/windows/",
     link: "",
     collapsable: true,
     children: "structure",
   },
   {
-    text: "🛖 生活",
-    icon: "",
+    text: "生活",
+    icon: "check",
     prefix: "/family/",
     link: "",
     collapsable: true,
