@@ -1,76 +1,14 @@
 <?xml version="1.0" encoding="utf-8"?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:dc="http://purl.org/dc/elements/1.1/">
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <atom:link href="https://newzone.top/rss.xml" rel="self" type="application/rss+xml"/>
     <title>SavageChigga</title>
     <link>https://newzone.top/</link>
     <description>工具、方法、笔记、idea，记录并输出一切能让自己提升的知识。</description>
     <language>zh-CN</language>
-    <pubDate>Thu, 08 Sep 2022 04:34:49 GMT</pubDate>
-    <lastBuildDate>Thu, 08 Sep 2022 04:34:49 GMT</lastBuildDate>
+    <pubDate>Thu, 08 Sep 2022 04:51:22 GMT</pubDate>
+    <lastBuildDate>Thu, 08 Sep 2022 04:51:22 GMT</lastBuildDate>
     <generator>vuepress-plugin-feed2</generator>
     <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
-    <category>周报</category>
-    <item>
-      <title>2022-09-07 周报</title>
-      <link>https://newzone.top/_posts/2022-09-07.html</link>
-      <guid>https://newzone.top/_posts/2022-09-07.html</guid>
-      <source url="https://newzone.top/rss.xml">2022-09-07 周报</source>
-      <category>周报</category>
-      <pubDate>Wed, 07 Sep 2022 00:00:00 GMT</pubDate>
-      <content:encoded><![CDATA[<blockquote>
-<p>每周学习任务与工作总结</p>
-</blockquote>
-<p>由于当前互联网信息爆炸，且学习、工作内容较多较为繁杂，本版块主要用作每周学习、生活和工作记录，以便日后查阅总结。</p>
-<blockquote>
-<p>每篇周报以周一作为开始、周五作为结束，如果周末也有工作或任务，则补充记录在周五之后。</p>
-</blockquote>
-<h2 id="_2022-09-03-周六" tabindex="-1"> 2022.09.03 周六</h2>
-<h3 id="坐高铁" tabindex="-1"> 坐高铁</h3>
-<h3 id="坐校车" tabindex="-1"> 坐校车</h3>
-<h3 id="学院报道" tabindex="-1"> 学院报道</h3>
-<h3 id="宿舍报道" tabindex="-1"> 宿舍报道</h3>
-<h3 id="取快递" tabindex="-1"> 取快递</h3>
-<h3 id="吃饭-逛街-按脚" tabindex="-1"> 吃饭 + 逛街 + 按脚</h3>
-<h2 id="_2022-09-04-周日" tabindex="-1"> 2022.09.04 周日</h2>
-<h3 id="去银行" tabindex="-1"> 去银行</h3>
-<h3 id="留学生" tabindex="-1"> 留学生</h3>
-<h3 id="吃午饭" tabindex="-1"> 吃午饭</h3>
-<h3 id="买电瓶车" tabindex="-1"> 买电瓶车</h3>
-<h3 id="办电话卡" tabindex="-1"> 办电话卡</h3>
-<h3 id="收拾宿舍-洗漱-洗衣服" tabindex="-1"> 收拾宿舍 + 洗漱 + 洗衣服</h3>
-<h2 id="_2022-09-05-周一" tabindex="-1"> 2022.09.05 周一</h2>
-<h3 id="办银行卡" tabindex="-1"> 办银行卡</h3>
-<p>前往中国银行在学校里的支行办理银行卡，排队的人一如既往的多，前一天<code>周日</code>上午来到这里发现没有开门，这里的中国银行居然周日放假，也是不太理解，因此只好今天前来，在经过问询和一段时间的排队后成功开始办卡。首先将原有的银行卡降为二类卡，据柜员说除了限额10000之外没有太大的限制，接着是一连串的身份验证<code>如扫码、拍照、签名等，十分繁琐</code>，最后终于办理好银行卡。</p>
-<p><img src="/card.jpg" alt="" loading="lazy"></p>
-<h3 id="食堂第一餐" tabindex="-1"> 食堂第一餐</h3>
-<h3 id="退快递" tabindex="-1"> 退快递</h3>
-<h3 id="选课" tabindex="-1"> 选课</h3>
-<h2 id="_2022-09-06-周二" tabindex="-1"> 2022.09.06 周二</h2>
-<h3 id="租空调" tabindex="-1"> 租空调</h3>
-<h3 id="食堂第二餐" tabindex="-1"> 食堂第二餐</h3>
-<h3 id="安排实验室工位" tabindex="-1"> 安排实验室工位</h3>
-<h3 id="食堂第三餐-八食堂第一餐" tabindex="-1"> 食堂第三餐 &amp; 八食堂第一餐</h3>
-<h3 id="贴墙纸" tabindex="-1"> 贴墙纸</h3>
-<p>找到系统启动文件夹，文件夹路径为：<code>%AppData%\Microsoft\Windows\Start Menu\Programs\Startup</code>。或者打开「运行」对话框，输入命令「shell:startup」，回车即可打开「启动文件夹」。</p>
-<p>将微信 for windows 10 的快捷方式放到「启动」文件夹里。</p>
-<p><img src="http://tc.seoipo.com/2022-05-06-04-23-49.png" alt="" loading="lazy"></p>
-<p>三开的话，可以在 Microsoft Store 上安装 微信 (UWP) 。</p>
-<p>如果还需要继续多开微信，可以参考 @刘舒怡 的方法：</p>
-<blockquote>
-<p>只要在 2 秒内快速连续双击打开软件，就能弹出很多登录界面，你想登多少个就登多少个</p>
-</blockquote>
-<p>另外，有人专门开发了微信/QQ 多开的补丁，需要四开以上的可以试试 <a href="https://github.com/huiyadanli/RevokeMsgPatcher" target="_blank" rel="noopener noreferrer">RevokeMsgPatcher</a>。</p>
-<p>但多开补丁风险未知，我只用了其中的防撤回功能，需谨慎使用多开补丁。</p>
-<p>国内搬运地址：<a href="https://wwz.lanzouf.com/ij0oz05ns3di" target="_blank" rel="noopener noreferrer">RevokeMsgPatcher.v1.5.zip</a></p>
-<h2 id="_2022-09-07-周三" tabindex="-1"> 2022.09.07 周三</h2>
-<h3 id="开学典礼" tabindex="-1"> 开学典礼</h3>
-<h3 id="核酸检测" tabindex="-1"> 核酸检测</h3>
-<h3 id="乐尔乐购物" tabindex="-1"> 乐尔乐购物</h3>
-<h2 id="_2022-09-08-周四" tabindex="-1"> 2022.09.08 周四</h2>
-<h2 id="_2022-09-09-周五" tabindex="-1"> 2022.09.09 周五</h2>
-]]></content:encoded>
-      <enclosure url="https://newzone.top/card.jpg" type="image/jpeg"/>
-    </item>
   </channel>
 </rss>
