@@ -125,7 +125,18 @@ print('hello world')
 ## 表情 emoji
 :smile:
 
+##如何给文字上色
+使用Markdown的同学最郁闷的地方恐怕就是不能给文字添加颜色了。事实上，Markdown的最初目标就是为纯写作而生的。因此，它并没有考虑文字颜色这一点。所以，单纯使用Markdown设置文字颜色已经做不到了。但你可以这样做：
+先用Markdown编辑完成
+导出为html，在需要上色的部分手动添加标签<font color='#9932CC'>颜色</font>保存即可。
 
+
+
+## 数学公式（可用latex）
+$$
+y=ax_2+b^2
+\mu=\alpha+\beta
+$$
 
 ## 下标
 H~2~O
