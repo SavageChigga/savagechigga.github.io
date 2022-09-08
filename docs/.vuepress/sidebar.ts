@@ -1,15 +1,17 @@
 import { sidebar } from "vuepress-theme-hope";
 // .vuepress/config.js
 // 精选图标：https://vuepress-theme-hope.github.io/v2/zh/guide/interface/icon.html#iconfont-%E7%B2%BE%E9%80%89%E5%9B%BE%E6%A0%87
-export default 
-sidebar([
+export default sidebar([
   "/DailyRoutine",
   "/Fitness",
   "/Read",
   {
-    text: "Test",
-    icon: "icon-anonymous",
-    link: "/Test",
+    text: "🐋 周报",
+    icon: "",
+    prefix: "/weekly/",
+    link: "",
+    collapsable: true,
+    children: "structure",
   },
   {
     text: "Blog",
@@ -22,7 +24,7 @@ sidebar([
   {
     text: "🚀 资料",
     icon: "",
-    prefix: "/code/",
+    prefix: "/info/",
     link: "",
     collapsable: true,
     children: "structure",
@@ -30,7 +32,7 @@ sidebar([
   {
     text: "🧰 工具",
     icon: "",
-    prefix: "/apps/",
+    prefix: "/tools/",
     link: "",
     collapsable: true,
     children: "structure",
@@ -38,31 +40,23 @@ sidebar([
   {
     text: "🌐 资源",
     icon: "",
-    prefix: "/web/",
+    prefix: "/data/",
     link: "",
     collapsable: true,
     children: "structure",
   },
   {
-    text: "🏗️ 部署",
+    text: "🏗️ 学术",
     icon: "",
-    prefix: "/deploy/",
+    prefix: "/study/",
     link: "",
     collapsable: true,
     children: "structure",
   },
   {
-    text: "🐋 服务",
-    icon: "",
-    prefix: "/services/",
-    link: "",
-    collapsable: true,
-    children: "structure",
-  },
-  {
-    text: "导航",
+    text: "idea",
     icon: "check",
-    prefix: "/windows/",
+    prefix: "/idea/",
     link: "",
     collapsable: true,
     children: "structure",
@@ -70,7 +64,7 @@ sidebar([
   {
     text: "生活",
     icon: "check",
-    prefix: "/family/",
+    prefix: "/life/",
     link: "",
     collapsable: true,
     children: "structure",
