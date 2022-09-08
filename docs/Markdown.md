@@ -19,10 +19,20 @@ icon: check
 > 强调与引用
 
 ##　超链接
-[点击跳转至百度](http://www.baidu.com)
+[点击跳转至百度](http://www.baidu.com"一个搜索引擎")
+
+## 引用链接
+[百度][id],[百度][id]
+[id]:baidu.com"一个搜索引擎"
+
+## 链接添加到标题
+请参考[标题1](#一级标题)
+
+## 直接使用url
+http://www/baidu.com
 
 ### 图片
-![图片](https://upload-images.jianshu.io/upload_images/703764-605e3cc2ecb664f6.jpg?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+![图片](https://upload-images.jianshu.io/upload_images/703764-605e3cc2ecb664f6.jpg?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240 "图片")
 
 ## 无序标题
 * 黄瓜
