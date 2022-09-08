@@ -6,6 +6,14 @@ export default sidebar([
   "/Fitness",
   "/Read",
   {
+    text: "博客文章",
+    icon: "blog",
+    prefix: "/_posts/",
+    link: "/blog",
+    collapsable: true,
+    children: "structure",
+  },
+  {
     text: "🚀 代码",
     icon: "",
     prefix: "/code/",
@@ -61,12 +69,5 @@ export default sidebar([
     collapsable: true,
     children: "structure",
   },
-  {
-    text: "博客文章",
-    icon: "blog",
-    prefix: "/_posts/",
-    link: "/blog",
-    collapsable: true,
-    children: "structure",
-  },
+
 ]);
