@@ -1,1 +1,0 @@
-import{_ as e}from"./plugin-vue_export-helper.21dcd24c.js";import{o,c as t,a as n}from"./app.7421e7b3.js";const r={},s=n("p",null,"\u9875\u9762\u5185\u5BB9\uFF0C\u652F\u6301 Markdown \u548C HTML \u8BED\u8A00\u3002",-1),_=[s];function c(a,l){return o(),t("div",null,_)}var i=e(r,[["render",c],["__file","notes.html.vue"]]);export{i as default};
