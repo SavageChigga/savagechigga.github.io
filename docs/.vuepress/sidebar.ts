@@ -6,7 +6,7 @@ export default sidebar([
   "/Fitness",
   "/Read",
   {
-    text: "笔记",
+    text: "😀 笔记",
     icon: "check",
     prefix: "/notes/",
     link: "",
