@@ -7,7 +7,7 @@ export default sidebar([
   "/Read",
   {
     text: "😀 笔记",
-    icon: "check",
+    icon: "",
     prefix: "/notes/",
     link: "",
     collapsable: true,
@@ -23,7 +23,7 @@ export default sidebar([
   },
   {
     text: "📙 Blog",
-    icon: "blog",
+    icon: "",
     prefix: "/_posts/",
     link: "/blog",
     collapsable: true,
@@ -63,7 +63,7 @@ export default sidebar([
   },
   {
     text: "💡 idea",
-    icon: "check",
+    icon: "",
     prefix: "/idea/",
     link: "",
     collapsable: true,
@@ -71,7 +71,7 @@ export default sidebar([
   },
   {
     text: "🖼 生活",
-    icon: "check",
+    icon: "",
     prefix: "/life/",
     link: "",
     collapsable: true,
